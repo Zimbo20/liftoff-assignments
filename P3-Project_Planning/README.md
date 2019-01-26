@@ -22,4 +22,4 @@ https://trello.com/b/VTQGj9ZI/upmarket
 
 (Include a link to your project on GitHub)
 
-https://github.com/Zimbo20/Upmarket.git
+https://github.com/DavidLConner/Upmarket.git
